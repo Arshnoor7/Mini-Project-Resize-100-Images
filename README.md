@@ -1,1 +1,1 @@
-# Mini-Project-Resize-100-Images-to-50-
+# Mini-Project-Resize-100-Images
